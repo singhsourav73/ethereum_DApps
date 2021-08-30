@@ -1,0 +1,8 @@
+https://www.trufflesuite.com/guides/ethereum-overview
+
+https://docs.soliditylang.org/en/latest/contracts.html#view-functions
+
+https://github.com/trufflesuite/truffle/blob/master/packages/resolver/solidity/Assert.sol
+
+https://github.com/ChainSafe/web3.js
+
