@@ -43,8 +43,14 @@ module.exports = {
     //
     development: {
      host: "127.0.0.1",     // Localhost (default: none)
-     port: 9545,            
+     port: 7545,            
      network_id: "*",       // Any network (default: none)
+    },
+    ropsten: {
+      host: "127.0.0.1",
+      port: 8545,
+      network_id: 3,
+      gas: 2900000
     },
     // Another network with more advanced options...
     // advanced: {
